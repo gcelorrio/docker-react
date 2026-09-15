@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Pedro Sánchez Hijo de puta!
+          Learn React
         </a>
       </header>
     </div>
