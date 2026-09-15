@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Ceuta es España!
+          Pedro Sánchez Hijo de puta!
         </a>
       </header>
     </div>
